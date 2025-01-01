@@ -1,4 +1,4 @@
-# unstop-Assessment
+# unstop QA Engineer Job Assessment
 This repository contains bug reports and test cases for the UnStop QA Job Assessment round. Below is a brief description of the assessment for your reference. improvements.
 ‭ 
 Assessment for QA Engineer‬
